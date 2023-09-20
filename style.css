@@ -1,0 +1,17 @@
+body {
+    background-image: url(image.png);
+    color: black;
+}
+
+p {
+    font-size: 25px;
+    font-family: "Lucida Console", "Courier New", monospace;
+}
+
+img {
+    position: absolute;
+    left: 60%;
+    top: 60%;
+    z-index: -1;
+  }
+
